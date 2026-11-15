@@ -1,9 +1,9 @@
-Fênix | Inventário v1.7 (Livro das Regras Fênix v5.2)
+Fênix | Inventário v1.9 (Livro das Regras Fênix v5.2)
 
-fenix-inventario-v1.7.html ........ app (cópia com versão no nome, controle interno)
+fenix-inventario-v1.9.html ........ app (cópia com versão no nome, controle interno)
 fenix-inventario.html ............. cópia neutra (a que os apontamentos usam)
 index.html ........................ cópia idêntica, para o GitHub Pages
-sw.js, manifest.webmanifest, icon-*.png .. PWA (cache fenix-inventario-1.7)
-fenix-inventario-manual-v1.7.md/.pdf ..... manual do usuário
+sw.js, manifest.webmanifest, icon-*.png .. PWA (cache fenix-inventario-1.9)
+fenix-inventario-manual-v1.9.md/.pdf ..... manual do usuário
 fenix-inventario-qr-code.png ..... QR code para instalar o Inventário
-versoes/fenix-inventario-v1.6.html ....... versão de volta (regra 70)
+versoes/fenix-inventario-v1.7.html ....... versão de volta (regra 70)
