@@ -1,9 +1,9 @@
-Fênix | Inventário v2.0 (Livro das Regras Fênix v5.2) — versão de volta: v1.9 (regra 70)
+Fênix | Inventário v2.1 (Livro das Regras Fênix v5.2) — versão de volta: v2.0 (regra 70)
 
 RAIZ (vai para o repositório / GitHub Pages)
   index.html ................ cópia idêntica do app, com a versão no rodapé
   fenix-inventario.html ..... cópia neutra do app (sem versão no nome; a que os apontamentos usam)
-  manifest.webmanifest, sw.js .. PWA (cache fenix-inventario-2.0)
+  manifest.webmanifest, sw.js .. PWA (cache fenix-inventario-2.1)
   firestore.rules ........... regras do Firebase com o bloco novo [v6.0 Inventário] (siga o checklist da regra 46)
   LEIAME.txt ................ este arquivo
 
@@ -12,7 +12,9 @@ MD/    fenix-inventario-manual.md .... manual do usuário em MD
 Icon/  icon-192.png, icon-512.png .... ícones do PWA; fenix-inventario-qr-code.png ... QR code para instalar
 
 versoes/ (SÓ controle interno: nunca vai para a raiz do repositório)
-  fenix-inventario-v2.0.html, index-v2.0.html, fenix-inventario-manual-v2.0.md/.pdf, firestore-rules-v2.0.rules
-  fenix-inventario-v1.9.html ... versão de volta
+  fenix-inventario-v2.1.html, index-v2.1.html, fenix-inventario-manual-v2.1.md/.pdf, firestore-rules-v2.1.rules
+  fenix-inventario-v2.0.html ... versão de volta
 
 Firebase: o bloco inventario_contas só vale depois de publicado; teste antes no Playground de regras.
+
+PRIVACIDADE (v2.1): CSV e relatório saem com nome, e-mail e telefone de colaboradoras anonimizados; a cópia de segurança (JSON) é completa, para restaurar.
